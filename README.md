@@ -6,7 +6,7 @@ input the moment.js download
 
 connect it with the script.js
 
-display the date and time on the screen
+display the date and time on the screen (Ill get back to this)
 
 add timeblocks
 
