@@ -181,7 +181,7 @@ $(document).ready(function() {
       // neeed to check for save button
   
       let i = $(this).attr('hour-index');
-  
+
       // add shawdow pulse class
       $(`#saveid-${i}`).addClass('shadowPulse');
     });
