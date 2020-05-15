@@ -29,7 +29,6 @@ $(document).ready(function() {
 
 
     planTextArr = new Array(9);
-    planTextArr[4] = "Picnic lunch outside";
   }
 
   if (test) { console.log("full array of plned text",planTextArr); }
